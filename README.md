@@ -15,10 +15,10 @@
 
 ## Projects
 
-- 🍎 **[Mirali]** — AI-powered nutrition tracker for iOS. Point your camera at a meal, get instant macro breakdowns via Claude Vision. Built with Swift/SwiftUI.
-- 🧭 **[Derivé]** — AI travel planner that reads your visual taste from Pinterest and RedNote, then builds personalized itineraries. Next.js + Supabase + Claude/DeepSeek dual routing.
 - 🔍 **[Blackboard Search](https://github.com/jingjing-yxng/blackboard-search)** — Chrome extension for natural language search across Blackboard LMS resources at Schwarzman College, Tsinghua University.
-- 📣 **[Outreach Hub]** — Chrome extension + Vercel/Supabase backend for automated influencer outreach on Chinese social media platforms, Douyin and Xiaohongshu (小红书). AI-powered researcher, message generation, campaign management, and more.
+- 🍎 **Mirali** — AI-powered nutrition tracker for iOS. Point your camera at a meal, get instant macro breakdowns via Claude Vision (no calorie information). Built with Swift/SwiftUI.
+- 🧭 **Derivé** — AI travel planner that reads your visual taste from Pinterest and RedNote, then builds personalized itineraries. Next.js + Supabase + Claude/DeepSeek dual routing.
+- 📣 **Outreach Hub （星联AI - 达人外联助手胡)** — Chrome extension + Vercel/Supabase backend for automated influencer outreach on Chinese social media platforms, Douyin and Xiaohongshu (小红书). AI-powered researcher, message generation, campaign management, and more.
 
 ## What I'm Working On
 
