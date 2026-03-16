@@ -16,9 +16,9 @@
 ## Projects
 
 - 🧭 **[Derivé](https://github.com/jingjing-yxng/derive)** — AI travel planner that reads your visual taste from Pinterest and RedNote, then builds personalized itineraries. Next.js + Supabase + Claude/DeepSeek dual routing.
+- 📣 **[Outreach Hub （星联AI - 达人外联助手)](https://github.com/jingjing-yxng/xinglian-ai)** — Chrome extension + Vercel/Supabase backend for automated influencer outreach on Chinese social media platforms, Douyin and Xiaohongshu (小红书). AI-powered researcher, message generation, campaign management, and more.
 - 🔍 **[Blackboard Search](https://github.com/jingjing-yxng/blackboard-search)** — Chrome extension for natural language search across Blackboard LMS resources at Schwarzman College, Tsinghua University.
 - 🍎 **[Mirali](https://github.com/jingjing-yxng/mirali)** — AI-powered nutrition tracker for iOS. Point your camera at a meal, get instant macro breakdowns via Claude Vision (no calorie information). Built with Swift/SwiftUI.
-- 📣 **[Outreach Hub （星联AI - 达人外联助手)](https://github.com/jingjing-yxng/xinglian-ai)** — Chrome extension + Vercel/Supabase backend for automated influencer outreach on Chinese social media platforms, Douyin and Xiaohongshu (小红书). AI-powered researcher, message generation, campaign management, and more.
 
 ## What I'm Working On
 
