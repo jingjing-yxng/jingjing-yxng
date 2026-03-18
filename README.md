@@ -24,6 +24,7 @@
 ## What I'm Working On
 
 - **Expanding Derivé** — adding more social media sources and itinerary collaboration features
+- **Building onsite.** — AI interview prep with tailored content generation and a Notion-style workspace
 - **Exploring agentic workflows** — using Claude Code to build at speed, with taste
 
 ## Connect
